@@ -38,7 +38,8 @@ interface Game {
 ## 📷 Screenshots
 
 ### 🔢 2048
-![Screenshot 2025-05-21 143555](https://github.com/user-attachments/assets/d84aea89-4c71-46a9-bce0-2a82ea5ca492)
+![2048 Screenshot](https://user-images.githubusercontent.com/12345678/2048_screenshot.png)
 
 ### 🔁 Game of Fifteen
-![Screenshot 2025-05-21 143647](https://github.com/user-attachments/assets/22f1a740-8906-4b2d-883f-8ec017e0906c)
+![Game of Fifteen Screenshot](https://user-images.githubusercontent.com/12345678/game_of_fifteen.png)
+
