@@ -38,7 +38,8 @@ interface Game {
 ## 📷 Screenshots
 
 ### 🔢 2048
-![2048 Screenshot](https://user-images.githubusercontent.com/12345678/2048_screenshot.png)
+"C:\Users\PMLS\OneDrive\Pictures\Screenshots\Screenshot 2025-05-21 143555.png"
+
 
 ### 🔁 Game of Fifteen
 ![Game of Fifteen Screenshot](https://user-images.githubusercontent.com/12345678/game_of_fifteen.png)
