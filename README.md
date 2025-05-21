@@ -35,12 +35,5 @@ interface Game {
     fun processMove(direction: Direction)
     operator fun get(i: Int, j: Int): Int?
 }
-## 📷 Screenshots
 
-### 🔢 2048
-"C:\Users\PMLS\OneDrive\Pictures\Screenshots\Screenshot 2025-05-21 143555.png"
-
-
-### 🔁 Game of Fifteen
-![Game of Fifteen Screenshot](https://user-images.githubusercontent.com/12345678/game_of_fifteen.png)
 
